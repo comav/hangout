@@ -1,0 +1,2 @@
+export const UPDATE_ROOM_DATA = 'UPDATE_ROOM_DATA';
+export const UPDATE_USER_DATA = 'UPDATE_USER_DATA';
